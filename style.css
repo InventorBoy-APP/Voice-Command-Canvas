@@ -1,0 +1,18 @@
+body
+{
+	text-align: center;
+	background-color:limegreen;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+	font-family: 'M PLUS 1', sans-serif;
+	text-decoration-line: underline;
+	font-weight:bold;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
