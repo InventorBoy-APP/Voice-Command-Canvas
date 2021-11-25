@@ -1,18 +1,15 @@
 body
 {
 	text-align: center;
-	background-color:limegreen;
+	background-color:hsl(34, 57%, 70%);
 }
 span
 {
-	font-size: 18px;
+	font-size: 12px;
 	color: red;
-	font-family: 'M PLUS 1', sans-serif;
-	text-decoration-line: underline;
-	font-weight:bold;
 }
 canvas
 {
-	background: pink;
+	background: #FB4F37;
 	border-radius: 20px;
 }
