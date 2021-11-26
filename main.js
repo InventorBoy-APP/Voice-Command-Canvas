@@ -21,7 +21,7 @@ var recognition = new SpeechRecognition();
 
 
 function preload(){
-  loadImage("apple.png");
+  apple = loadImage("apple.png");
 }
 
 
